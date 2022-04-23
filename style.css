@@ -6,6 +6,7 @@
 
 body {
     font-family: "Montserrat", sans-serif;
+    background: radial-gradient(circle at 0.2% 0.5%, rgb(252, 165, 241) 0%, rgb(181, 255, 255) 100.2%);
 }
 
 .app{
@@ -24,6 +25,7 @@ header h1 {
 
 header p {
     font-size: 20px;
+    text-align: center;
 }
 
 .pads{
